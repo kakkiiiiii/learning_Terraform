@@ -1,6 +1,10 @@
 # learning_Terraform
 
-### コマンド
-terraform fmt
+### Command
+terraform fmt - fix the format of .tf file
+terraform console - start Read-Eval-Print Loop (REPL)
 
-### 参考文献
+### Notation
+Notation of terraform is written in notation.tf file in this repository.
+
+### Reference
