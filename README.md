@@ -1,4 +1,4 @@
-# learning_Terraform
+# Learning Terraform as begginer
 
 ### Command
 terraform fmt - fix the format of .tf file
